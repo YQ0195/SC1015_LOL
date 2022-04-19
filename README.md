@@ -14,4 +14,6 @@ Comparing both models to find out which model best predicts it.
 
 # References
 https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min?select=high_diamond_ranked_10min.csv
+
+
 https://mobalytics.gg/blog/lol-how-to-get-better-at-league-of-legends/
