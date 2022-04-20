@@ -10,7 +10,7 @@ Using Logistic regression and Decision Tree models to find a relationship betwee
 
 Comparing both models to find out which model best predicts it.
 # Conclusion
-Due to the high number of false negative rates, there is still a very good chance of winning despite being behind at the 10th minute mark, and that games are winnable if you play them out.
+Due to the high number of false negative rates, there is still a very good chance of winning despite being behind at the 10th minute mark, and that despite deficits in the early-game, they are still winnable if you play them out.
 # What did we learn from this project
 We learned about fitting the Logistic regression model and what it tells us, as well as the possibility of stopping snowball leads in "League of Legends".
 # References
