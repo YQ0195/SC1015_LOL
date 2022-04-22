@@ -1,4 +1,4 @@
-# SC1015_Group9
+# SC1015_SC11_Group9
 SC1015 mini project
 # Contributors
 Chin Han Wen
