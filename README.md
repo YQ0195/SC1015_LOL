@@ -16,15 +16,11 @@ We used Logistic Regression and Decision Tree models to find a relationship betw
 
 We compared both models to find out which model was able to predict better.
 # Conclusion
-Due to the high number of false negative rates for all factors, there is still a very good chance of winning despite being behind at the 10th minute mark, and that despite deficits in the early-game, they are still winnable if you play them out.
+Due to the high false negative rates for all factors, there is still a very good chance of winning despite being behind at the 10th minute mark, and that despite deficits in the early-game, they are still winnable if you play them out.
 # What did we learn from this project
-We learned about fitting the Logistic regression model and what it tells us, as well as the possibility of stopping snowball leads in "League of Legends".
-- Logistic Regression
-- Data Visualization via stripplots
-
+We learned about fitting the Logistic Regression model and what it tells us, as well as the possibility of stopping snowball leads in "League of Legends".
 # References
 https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min?select=high_diamond_ranked_10min.csv
-
 
 https://mobalytics.gg/blog/lol-how-to-get-better-at-league-of-legends/
 
