@@ -21,9 +21,11 @@ Due to the high number of false negative rates for all factors, there is still a
 We learned about fitting the Logistic regression model and what it tells us, as well as the possibility of stopping snowball leads in "League of Legends".
 - Logistic Regression
 - Data Visualization via stripplots
-- 
+
 # References
 https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min?select=high_diamond_ranked_10min.csv
 
 
 https://mobalytics.gg/blog/lol-how-to-get-better-at-league-of-legends/
+
+https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148
