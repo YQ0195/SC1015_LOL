@@ -1,5 +1,9 @@
-# SC1015_LOL
+# SC1015_Group9
 SC1015 mini project
+#Contributors
+Chin Han Wen
+Liew Kai Wei
+Khoo Yong Quan
 # About 
 This is a mini project for SC1015. We decided to work with a [dataset of statistics from "League of Legends" game](https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min?select=high_diamond_ranked_10min.csv)
 # Problem definition
