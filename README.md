@@ -12,7 +12,7 @@ This is a mini project for SC1015. We decided to work with a [dataset of statist
 Our group decided to find out the factors that contribute to a victory in a League of Lengends ranked game.
 We wanted to find out how significantly early-game leads would determine the outcome of a match and if it is justified to surrender early based on these leads.
 
-We used Logistic Regression and Decision Tree models to find a relationship between the chosen factors and victory.
+We used Logistic Regression and Decision Tree models to find the relationship between the chosen factors and victory.
 
 We compared both models to find out which model was able to predict better.
 # Conclusion
